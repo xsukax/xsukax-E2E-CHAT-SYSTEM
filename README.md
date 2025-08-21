@@ -10,7 +10,7 @@
 ## 1. Introduction
 
 ### System Overview
-The xsukax E2E Chat System is a minimalist, browser-based encrypted communication platform designed for secure peer-to-peer messaging. Built with approximately 500 lines of code, the system prioritizes privacy through end-to-end encryption while maintaining operational simplicity.
+The xsukax E2E Chat System is a minimalist, browser-based encrypted communication platform designed for secure messaging. Built with approximately 500 lines of code, the system prioritizes privacy through end-to-end encryption while maintaining operational simplicity.
 
 ### Purpose
 The system addresses the growing need for private digital communication by providing a zero-knowledge architecture where the server cannot access message content. Unlike commercial platforms, it operates without user registration, phone numbers, or persistent data storage.
