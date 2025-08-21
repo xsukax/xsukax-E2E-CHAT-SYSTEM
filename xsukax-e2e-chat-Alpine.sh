@@ -541,12 +541,9 @@ service chat start
 
 echo "
 ✅ xsukax E2E Chat System Installed on Alpine Linux
-🌐 Access: http://$DOMAIN
-🔒 Features: RSA-2048 + AES-256-GCM encryption
-📱 Mobile responsive interface
-🛡️  Firewall configured (SSH, HTTP, HTTPS only)
 
 Services Status:
 $(service nginx status)
 $(service chat status)
+
 "
