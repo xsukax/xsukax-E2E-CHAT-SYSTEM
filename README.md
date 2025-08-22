@@ -44,7 +44,6 @@ A secure, end-to-end encrypted chat system with file sharing capabilities. No re
 - **Zero message storage** - all messages are immediately forwarded, never saved
 - **Perfect Forward Secrecy** - new keys for each chat session
 - **Rate limiting** to prevent spam and abuse
-- **User blocking** capabilities (admin version)
 - **Secure file sharing** up to 1MB with full encryption
 
 ## 🕵️ Privacy Features
