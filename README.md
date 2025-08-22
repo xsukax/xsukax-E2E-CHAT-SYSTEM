@@ -1,10 +1,6 @@
 # xsukax E2E Chat System
 ---
 
-## Important Note: Use HTTPS for more security Using one of the following options:
-- Cloudflared Tunnels.
-- Certbot.
-
 ![](https://raw.githubusercontent.com/xsukax/xsukax-E2E-CHAT-SYSTEM/refs/heads/main/screenshot.png)
 
 A secure, end-to-end encrypted chat system with file sharing capabilities. No registration required - just generate an 8-character ID and start chatting securely.
